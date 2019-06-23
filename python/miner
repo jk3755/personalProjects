@@ -1,0 +1,1 @@
+./bfgminer -o stratum.bitcoin.cz:3333 -O jsk336.worker1:z -S all
